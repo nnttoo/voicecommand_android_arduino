@@ -1,3 +1,0 @@
-VoiceCommandItem					KEYWORD1
-VoiceCommand						KEYWORD1
-regCommand 						KEYWORD2
